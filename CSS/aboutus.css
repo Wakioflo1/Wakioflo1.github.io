@@ -1,0 +1,19 @@
+nav{
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color:lightblue;
+}
+h1,h2,h3 {
+  text-align: center;
+  padding: 32px;
+}

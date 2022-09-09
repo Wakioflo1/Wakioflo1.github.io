@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: none;
+    
+}
+nav{
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+p{
+  text-decoration-color: green;
+  text-align: initial;
+  flood-color: yellow;
+  text-decoration: none;
+  font-display: bold;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color:lightblue;
+}
+h1{
+    text-decoration: bold;
+    text-align: center;
+    font-family: cursive;
+}
+h2{
+    text-align: center;
+    text-decoration: bold;
+    font-family: cursive;
+}
+h3{
+    padding:20px 80px 70px s ;
+    text-align: center;
+    text-decoration: bold;
+    font-family: cursive;
+   font-size: 40px;
+}
+
+
+
+
+
